@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd96ae0a-790f-45cc-8720-4c420917929f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aCGwii6vg2iQPemGj7lrrlL5X3" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributor_exact">
+    <configuration name="ExpenseServiceTest.test_happy_flow_with_expense" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SplitWise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ExpenseServiceTest" />
+      <option name="METHOD_NAME" value="test_happy_flow_with_expense" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributer_equal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SplitWise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ExpenseServiceTest" />
+      <option name="METHOD_NAME" value="test_happy_flow_with_expense_with_2_contributer_equal" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributer_percent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SplitWise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ExpenseServiceTest" />
+      <option name="METHOD_NAME" value="test_happy_flow_with_expense_with_2_contributer_percent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributer_percent_Settlement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SplitWise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ExpenseServiceTest" />
+      <option name="METHOD_NAME" value="test_happy_flow_with_expense_with_2_contributer_percent_Settlement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributor_exact" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SplitWise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="service" />
+      <option name="MAIN_CLASS_NAME" value="service.ExpenseServiceTest" />
+      <option name="METHOD_NAME" value="test_happy_flow_with_expense_with_2_contributor_exact" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributor_exact" />
+        <item itemvalue="JUnit.ExpenseServiceTest.test_happy_flow_with_expense" />
+        <item itemvalue="JUnit.ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributer_percent_Settlement" />
+        <item itemvalue="JUnit.ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributer_percent" />
+        <item itemvalue="JUnit.ExpenseServiceTest.test_happy_flow_with_expense_with_2_contributer_equal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd96ae0a-790f-45cc-8720-4c420917929f" name="Default Changelist" comment="" />
+      <created>1586232402407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586232402407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1586268414940">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1586268414940" />
+    <state x="479" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586251571025">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="479" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1586251571025" />
+    <state x="635" y="328" key="#xdebugger.evaluate" timestamp="1586330389623">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="635" y="328" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1586330389623" />
+    <state width="1398" height="298" key="GridCell.Tab.0.bottom" timestamp="1586338940944">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586338940944" />
+    <state width="1398" height="298" key="GridCell.Tab.0.center" timestamp="1586338940943">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586338940943" />
+    <state width="1398" height="298" key="GridCell.Tab.0.left" timestamp="1586338940942">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586338940942" />
+    <state width="1398" height="298" key="GridCell.Tab.0.right" timestamp="1586338940943">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586338940943" />
+    <state width="1398" height="301" key="GridCell.Tab.1.bottom" timestamp="1586330433158">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586330433158" />
+    <state width="1398" height="301" key="GridCell.Tab.1.center" timestamp="1586330433156">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586330433156" />
+    <state width="1398" height="301" key="GridCell.Tab.1.left" timestamp="1586330433155">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586330433155" />
+    <state width="1398" height="301" key="GridCell.Tab.1.right" timestamp="1586330433157">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="301" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586330433157" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1586232440241">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586232440241" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1586330242352">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1586330242352" />
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1586260789048">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="499" y="199" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.900@0.0.1440.900" timestamp="1586260789048" />
+    <state x="378" y="207" width="683" height="486" key="find.popup" timestamp="1586338918579">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="207" width="683" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1586338918579" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586338921242">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586338921242" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/ExpenseServiceImpl.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/ExpenseServiceImpl.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/domain/EqualExpense.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
